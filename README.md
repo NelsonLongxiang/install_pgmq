@@ -7,7 +7,7 @@ install_pgmq 目的是帮助新手在Win平台上安装pgmq插件，减少理解
 pip install -r requirements.txt
 ```
 
-## 请在ommon.py 指定 postgres_dsn 常量
+## 请在common.py 指定 postgres_dsn 常量
 
 ## 运行脚本
 ```commandline 
