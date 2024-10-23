@@ -1,13 +1,13 @@
 install_pgmq 目的是帮助新手在Win平台上安装pgmq插件，减少理解时间，直接上手即可。
 
-## 1、将files里的文件复制到*\PostgreSQL\*\share\extension 目录下
+## 1、将files里的文件复制到*/PostgreSQL/*/share/extension 目录下
 
 ## 2、执行安装python第三方库
 ```commandline
 pip install -r requirements.txt
 ```
 
-## 请在utils/common.py 指定 postgres_dsn 常量
+## 请在ommon.py 指定 postgres_dsn 常量
 
 ## 运行脚本
 ```commandline 
